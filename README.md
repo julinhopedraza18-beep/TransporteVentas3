@@ -150,7 +150,7 @@ De forma resumida, los pasos son:
 
 ## Repositorio
 
-https://github.com/jona7541/trabajos-de-campo
+https://github.com/julinhopedraza18-beep/TransporteVentas3.git
 
 ---
 
